@@ -1,0 +1,71 @@
+body{
+  padding:20px;
+  background-image: url("images/background.jpg")
+  
+}
+
+.poster{
+  text-align:center;
+  width:488px;
+  height:640px;
+  padding:20px;
+  background-image:url("images/paper.jpg");
+  -webkit-box-shadow: 5px 4px 7px 1px #000000; 
+  box-shadow: 5px 4px 7px 1px #000000;
+  
+}
+
+#mugshot{
+  width:300px;
+  height:325px;
+  border-style: solid;
+  border-width:2px;
+  border-color:#291200;
+  margin:10px;
+
+}
+
+.subheading{
+  font-size:25px;
+  padding:2px;
+  margin:2px;
+}
+
+.wanted{
+  font-size:45pt;
+  font-family:"Ewert",cursive;
+  color:#291200;
+  margin:0px;
+  font-weight:normal;
+}
+
+.Subtext{
+  font-family:"Ultra";
+  color:#291200;
+}
+
+.name{
+  font-size:20pt;
+  margin:2px;
+}
+
+.description{
+  font-style:italic;
+  font-size:19px;
+  font-weight:normal;
+  margin:12px;
+}
+
+#price{
+  font-size:30px;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+  padding-top:0px;
+  margin-top:0px;
+}
+
+.Reward{
+  margin:2px;
+  padding:2px;
+  font-weight:normal;
+}
