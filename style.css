@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Loved+by+the+King&family=Saira+Extra+Condensed:wght@300&display=swap');
+
+body{
+    background-image: url("images/hearts.jpg");
+    color:rgb(149, 0, 255);
+    font-family:"Loved By the King";
+    overflow-x: hidden;
+}
+
+header{
+    text-align: center;
+}
+
+.title{
+    font-size:7rem;
+    margin-top:2%;
+    margin-bottom:2%;
+}
+
+p{
+    font-size:3.5rem;
+    text-align: center;
+}
+
+
+a{
+    text-decoration: none;
+    color:rgb(255, 0, 0);
+}
+
+
+#images{
+    width: 100vw;
+    justify-content: center;
+    text-align: center;
+}
+
+img{
+    width:75vw;
+    align-items: center;
+}
+
+#vertical{
+    display:flex;
+    width:100vw;
+    text-align: center;
+    justify-content: center;
+}
+.vert{
+    width:19vw;
+    margin:0.2%;
+}
+
+a{
+    height: 100%;
+}
+
+img{
+    width:90vw;
+    border:1vw;
+}
+
+#wow{
+    width: 55vw;
+    height:80vh;
+}
